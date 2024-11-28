@@ -1,5 +1,5 @@
-"use client"
-import Section1 from '@/pages/sections/Section1'
+
+import Section1 from '@/pages/sections/Section1.js'
 
 export default function Home() {
   return (
